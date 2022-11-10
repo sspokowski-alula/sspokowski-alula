@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Sam
-- 👀 I’m interested in test automation, devops, cybersecurity, and process improvement
+- 👀 I’m interested in delivering working software by using test automation, devops, secops, and process improvement
+- These are values that I bring when collaborating:
+  - Assume positive intent
+  - Strong opinions, loosely held
+  - Start with “yes”
 
 <!---
 sspokowski-alula/sspokowski-alula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
